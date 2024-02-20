@@ -1,4 +1,4 @@
-# ITS_Web
+# vue3_template
 
 vue3+vite+elementPlus 搭建的开发框架，相关配置和文件夹都完善了，可以直接使用。
 
